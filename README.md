@@ -26,3 +26,4 @@ This project analyzes Walmart sales data from 2011–2014 using Microsoft Excel.
 - Sales increased steadily from 2011 to 2014
 
 ## Dashboard Preview
+![image alt] (https://github.com/fardeen2k-stack/walmart-sales-dashboard-excel/blob/82e170f87dcd78db81fa3e22311b04c026e4ada1/dashboard_preview.png)
